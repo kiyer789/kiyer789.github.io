@@ -17,7 +17,7 @@ i:forest.jpg:forest-ea154dee354eccbf280366efc8e755ed.jpg:777429:image/jpeg:1
 i:Fulk.png:Fulk-a1c7fd794d98df17600054dd6039f146.png:1640895:image/png:1
 i:Ghost.png:Ghost-dce06e830842876a8031ce7a709cbaea.png:201402:image/png:1
 i:ghost2.png:ghost2-1101c2601f9e2c1066d5268663530ca0.png:1362443:image/png:1
-a:ghostdeath.mp3:ghostdeath-47d9bada48625f2167404936f90d08ac.mp3:21150:audio/mpeg:1
+a:ghostdeath.mp3:ghostdeath-b1a97025a88c381855dc2f10e43aa140.mp3:33062:audio/mpeg:1
 i:ghost_death1.png:ghost_death1-7bb242c9d0fe6e2c9752895780588a8d.png:1573901:image/png:1
 i:ghost_death2.png:ghost_death2-67d6e811d6b6d521c6aa876cca8dac2d.png:1400334:image/png:1
 i:heart.png:heart-efcead3cb3712b4ca7d3548cad1355f7.png:1398792:image/png:1
